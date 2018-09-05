@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Anudeep Yakkala's first CS193 Lab
-## Header 2
-### Header 3
 
 - more laid back than other classes
 - not too difficult
